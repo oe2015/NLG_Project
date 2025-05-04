@@ -1,0 +1,1015 @@
+[0] Label: 1 | Combined Score: -0.0496 | BLEU: 0.0309 | ROUGE-L: 0.3000 | BARTScore-F1: -5.3604
+Prompt     : Hurricane Ana was the second tropical
+Reference  : cyclone in 2014 to threaten the U S. state of
+Generated  :  storm to hit the United States in the past week.
+--------------------------------------------------------------------------------
+[1] Label: 1 | Combined Score: -0.0046 | BLEU: 0.0176 | ROUGE-L: 0.0690 | BARTScore-F1: -3.8341
+Prompt     : The 2013–2016 epidemic of Ebola virus disease, centered in Western
+Reference  : Africa, was the most widespread outbreak of the disease in history It caused major
+Generated  :  Africa, has killed more than 11,000 people and infected more than 11 million people.
+--------------------------------------------------------------------------------
+[2] Label: 1 | Combined Score: -0.0125 | BLEU: 0.0241 | ROUGE-L: 0.1143 | BARTScore-F1: -4.5503
+Prompt     : The case of Ashya King concerns a boy
+Reference  : named Ashya King, who had a brain tumour His parents, Brett and Naghemeh King, took their son out of Southampton General Hospital (England) in August 2014 over a disagreement with doctors regarding his treatment.Ashya
+Generated  :  who was allegedly raped by his father, who was later arrested.
+
+The boy's father, Ashya King, was arrested on charges of rape and sodomy.
+
+The case has been transferred to the Juvenile Justice Board.
+--------------------------------------------------------------------------------
+[3] Label: 0 | Combined Score: -0.0000 | BLEU: 0.0000 | ROUGE-L: 0.0000 | BARTScore-F1: -5.2534
+Prompt     : The 16th Houston Film Critics Society Awards were announced on February 18,
+Reference  : 2023,
+Generated  :  2016.
+--------------------------------------------------------------------------------
+[4] Label: 1 | Combined Score: -0.0921 | BLEU: 0.0610 | ROUGE-L: 0.2500 | BARTScore-F1: -6.0370
+Prompt     : The Cuban thaw (Spanish: Deshielo cubano) was the normalization of Cuba–United States relations
+Reference  : that began in December
+Generated  :  in the early 1960s.
+--------------------------------------------------------------------------------
+[5] Label: 0 | Combined Score: -0.0014 | BLEU: 0.0046 | ROUGE-L: 0.0898 | BARTScore-F1: -3.3582
+Prompt     : On January 19, 2023, the United States hit
+Reference  : its debt ceiling, beginning an ongoing debt-ceiling crisis In response, Janet Yellen, the secretary of the treasury, began enacting temporary "extraordinary measures". The crisis is part of a political debate within Congress about federal government spending and the national debt that the U.S. government accrues.In the United States, the debt ceiling is a limit on how much national debt the Treasury Department may incur, defined by Congress. Although the debt ceiling does not authorize new spending, it grants the Treasury greater power over financial endeavors Congress may choose to take. In January 2013, the United States hit the debt ceiling, causing a crisis that persisted until that October, when the Continuing Appropriations Act of 2014 was signed into law by President Barack Obama. Since then, the debt ceiling has been increased multiple times, the most recent one raising it to $31.4 trillion in December 2021.According to reports from Wells Fargo, if the United States does not raise the debt ceiling, the government will begin defaulting on its debts starting sometime between early July and early September. In that event, the Treasury would have to either default on payments to bondholders or immediately curtail payment of funds owed to various companies and individuals that had been mandated but not fully funded by Congress. Both situations would be expected to result in a global economic meltdown. Additionally, if the federal government was unable to issue new debt, it would be forced to impose budget cuts that, in total, would equal
+Generated  :  the moon.
+
+The moon is a very small planet, and the moon is a very small planet.
+
+The moon is a very small planet, and the moon is a very small planet.
+
+The moon is a very small planet, and the moon is a very small planet.
+
+The moon is a very small planet, and the moon is a very small planet.
+
+The moon is a very small planet, and the moon is a very small planet.
+
+The moon is a very small planet, and the moon is a very small planet.
+
+The moon is a very small planet, and the moon is a very small planet.
+
+The moon is a very small planet, and the moon is a very small planet.
+
+The moon is a very small planet, and the moon is a very small planet.
+
+The moon is a very small planet, and the moon is a very small planet.
+
+The moon is a very small planet, and the moon is a very small planet.
+
+The moon is a very small planet, and the moon is a very small planet.
+
+The moon is a very small planet, and the moon is a very small planet.
+
+The moon is a very small planet, and the moon is a very small planet.
+
+The moon is a very small planet, and the moon is a very small planet.
+
+The moon is a very small planet, and the moon is a very small planet.
+
+The moon is a very small planet, and the moon is a very small planet.
+
+The moon is a very small planet, and the moon is a very small planet.
+
+The moon is a very small planet, and the moon is a very small planet.
+
+The moon is a very small planet, and the moon is a very small planet.
+
+The moon is a very small planet, and the moon is a very small planet.
+
+The moon is a very small planet, and the moon is a very small planet.
+
+The moon is a very small planet, and the moon is a very small planet.
+
+The moon is a very small planet, and the moon is a very small planet.
+
+The moon is a very small planet, and the moon is a very small planet.
+
+The moon is a very small planet, and the moon is a very small planet.
+
+The
+--------------------------------------------------------------------------------
+[6] Label: 1 | Combined Score: -0.0089 | BLEU: 0.0149 | ROUGE-L: 0.1250 | BARTScore-F1: -4.7468
+Prompt     : The 2014 Gaza War, also known as Operation Protective
+Reference  : Edge (Hebrew: מִבְצָע צוּק אֵיתָן, romanized: Miv'tza Tzuk Eitan, lit 'Operation Strong Cliff'), was a military operation
+Generated  :  Edge, was the deadliest conflict in the Gaza Strip since the 2006 war between Israel and Hamas.
+--------------------------------------------------------------------------------
+[7] Label: 0 | Combined Score: -0.1070 | BLEU: 0.0543 | ROUGE-L: 0.5455 | BARTScore-F1: -3.6127
+Prompt     : The floods in South Africa in February-March 2023 were caused by heavy rainfall as a result of
+Reference  : the La Niña weather phenomenon,
+Generated  :  the El Nino weather phenomenon.
+--------------------------------------------------------------------------------
+[8] Label: 1 | Combined Score: -0.1434 | BLEU: 0.0364 | ROUGE-L: 0.7778 | BARTScore-F1: -5.0676
+Prompt     : Conference of Western Balkan States was a 28 August 2014 conference of heads
+Reference  : of states and governments of Western Balkans region initiated
+Generated  :  of state and government of the Western Balkan States.
+--------------------------------------------------------------------------------
+[9] Label: 1 | Combined Score: -0.1252 | BLEU: 0.0718 | ROUGE-L: 0.3830 | BARTScore-F1: -4.5540
+Prompt     : The war on terror, officially the Global War on Terrorism (GWOT), is a global counterterrorism military campaign initiated by
+Reference  : the United States following the September 11 attacks and is also the most recent global conflict spanning multiple wars The main targets of
+Generated  :  the United States in response to the 9/11 attacks on the United States. The war on terror is a global war on terror.
+--------------------------------------------------------------------------------
+[10] Label: 1 | Combined Score: -0.0068 | BLEU: 0.0087 | ROUGE-L: 0.2072 | BARTScore-F1: -3.8088
+Prompt     : Hamas, the governing authority in the Gaza Strip, has constructed a sophisticated
+Reference  : network of military tunnels since it seized control of the Strip in 2007 The tunnel system branches beneath many Gazan towns and cities, such as Khan Yunis, Jabalia and the Shati refugee camp. The internal tunnels, running some dozens of kilometres within the Gaza Strip, have several functions. Hamas uses the tunnels to hide its arsenal of rocketry underground, to facilitate communication, to permit munition stocks to be hidden, and to conceal militants, making detection from the air difficult. Hamas leader Khalid Meshal said in an interview with Vanity Fair that the tunnel system is a defensive structure, designed to place obstacles against Israel's powerful military arsenal and engage in counter-strikes behind the lines of the IDF. He admitted that the tunnels are used for infiltration of Israel, but said that offensive operations have never caused the death of civilians in Israel, and denied allegations of planned mass attacks on Israeli civilians.The cross-border tunnels were used in the capture of Gilad Shalit in 2006, and multiple times during the 2014 conflict. Destroying the tunnels was a primary objective of Israeli forces in the 2014 Israel–Gaza conflict. The IDF reported that it "neutralized" 32 tunnels, fourteen of which crossed into Israel. On at least four occasions during the conflict, Palestinian militants crossing the border through the tunnels engaged in combat with Israeli soldiers. Officially, Israeli spokesmen has always maintained that the aim of the “terror tunnels” is to harm Israel civilians. According to Prime Minister
+Generated  :  network of tunnels that it uses to smuggle in weapons and fighters.
+
+The tunnels are used to smuggle in weapons and fighters.
+
+The tunnels are used to smuggle in weapons and fighters.
+
+The tunnels are used to smuggle in weapons and fighters.
+
+The tunnels are used to smuggle in weapons and fighters.
+
+The tunnels are used to smuggle in weapons and fighters.
+
+The tunnels are used to smuggle in weapons and fighters.
+
+The tunnels are used to smuggle in weapons and fighters.
+
+The tunnels are used to smuggle in weapons and fighters.
+
+The tunnels are used to smuggle in weapons and fighters.
+
+The tunnels are used to smuggle in weapons and fighters.
+
+The tunnels are used to smuggle in weapons and fighters.
+
+The tunnels are used to smuggle in weapons and fighters.
+
+The tunnels are used to smuggle in weapons and fighters.
+
+The tunnels are used to smuggle in weapons and fighters.
+
+The tunnels are used to smuggle in weapons and fighters.
+
+The tunnels are used to smuggle in weapons and fighters.
+
+The tunnels are used to smuggle in weapons and fighters.
+
+The tunnels are used to smuggle in weapons and fighters.
+
+The tunnels are used to smuggle in weapons and fighters.
+
+The tunnels are used to smuggle in weapons and fighters.
+
+The tunnels are used to smuggle in weapons and fighters.
+
+The tunnels are used to smuggle in weapons and fighters.
+
+The tunnels are used to smuggle in weapons and fighters.
+
+The tunnels are used to smuggle in weapons and fighters.
+
+The tunnels are used to smuggle in weapons and fighters.
+
+The tunnels are used to smuggle in weapons and fighters.
+
+The tunnels are used to smuggle in weapons and fighters.
+
+The tunnels are used to smuggle in weapons and fighters.
+
+The tunnels are used to smuggle in weapons and fighters.
+
+The tunnels are used to smuggle in weapons and fighters.
+
+The tunnels are used to smuggle in weapons and fighters.
+
+The tunnels are used to smuggle in weapons and fighters.
+
+The tunnels are used to smuggle in weapons and fighters.
+
+The tunnels are used to smuggle in weapons and fighters.
+
+The tunnels are used to smuggle in
+--------------------------------------------------------------------------------
+[11] Label: 0 | Combined Score: -0.0034 | BLEU: 0.0097 | ROUGE-L: 0.0866 | BARTScore-F1: -4.0977
+Prompt     : Marchetti's constant is the average time spent
+Reference  : by a person for commuting each day Its value is approximately one hour, or half an hour for a one-way trip. It is named after Italian physicist Cesare Marchetti, though Marchetti himself attributed the "one hour" finding to transportation analyst and engineer Yacov Zahavi.Marchetti posits that although forms of urban planning and transport may change, and although some live in villages and others in cities, people gradually adjust their lives to their conditions (including location of their homes relative to their workplace) such that the average travel time stays approximately constant. Ever since Neolithic times, people have kept the average time spent per day for travel the same, even though the distance may increase due to the advancements in the means of transportation. In his 1934 book Technics and Civilization, Lewis Mumford attributes this observation to Bertrand Russell: Mr. Bertrand Russell has noted that each improvement in locomotion has increased the area over which people are compelled to move: so that a person who would have had to spend half an hour to walk to work a century ago must still spend half an hour to reach his destination, because the contrivance that would have enabled him to save time had he remained in his original situation now—by driving him to a more distant residential area—effectually cancels out the gain.A related concept is that of Zahavi, who also noticed that people seem to have a constant "travel time budget", that is, "a stable daily amount of time that people
+Generated  :  in the air.
+
+The average time spent in the air is the average time spent in the air.
+
+The average time spent in the air is the average time spent in the air.
+
+The average time spent in the air is the average time spent in the air.
+
+The average time spent in the air is the average time spent in the air.
+
+The average time spent in the air is the average time spent in the air.
+
+The average time spent in the air is the average time spent in the air.
+
+The average time spent in the air is the average time spent in the air.
+
+The average time spent in the air is the average time spent in the air.
+
+The average time spent in the air is the average time spent in the air.
+
+The average time spent in the air is the average time spent in the air.
+
+The average time spent in the air is the average time spent in the air.
+
+The average time spent in the air is the average time spent in the air.
+
+The average time spent in the air is the average time spent in the air.
+
+The average time spent in the air is the average time spent in the air.
+
+The average time spent in the air is the average time spent in the air.
+
+The average time spent in the air is the average time spent in the air.
+
+The average time spent in the air is the average time spent in the air.
+
+The average time spent in the air is the average time spent in the air.
+
+The average time spent in the air is the average time spent in the air.
+
+The average time spent in the air is the average time spent in the air.
+
+The average time spent in the air is the average time spent in the air.
+
+The average time spent in the air is the average time spent in the air.
+
+The average time spent in the air is the average time spent in the air.
+
+The average time spent in the air is the average time spent in the air.
+
+The average time spent in the air is the average time spent in the air.
+
+The average time spent in the air is the average time spent in the air.
+
+The average time spent in the air is the average time spent in the air.
+
+The average time spent in the air is
+--------------------------------------------------------------------------------
+[12] Label: 1 | Combined Score: -0.0045 | BLEU: 0.0077 | ROUGE-L: 0.1903 | BARTScore-F1: -3.0473
+Prompt     : Organizations from around the world responded
+Reference  : to the West African Ebola virus epidemic In July 2014, the World Health Organization (WHO) convened an emergency meeting with health ministers from eleven countries and announced collaboration on a strategy to co-ordinate technical support to combat the epidemic. In August, they declared the outbreak an international public health emergency and published a roadmap to guide and coordinate the international response to the outbreak, aiming to stop ongoing Ebola transmission worldwide within 6–9 months. In September, the United Nations Security Council declared the Ebola virus outbreak in the West Africa subregion a "threat to international peace and security" and unanimously adopted a resolution urging UN member states to provide more resources to fight the outbreak; the WHO stated that the cost for combating the epidemic will be a minimum of $1 billion.The Economic Community of West African States (ECOWAS) and the World Bank Group have pledged aid money and the World Food Programme announced plans to mobilize food assistance for an estimated 1 million people living in restricted access areas. Several Non-Governmental Organizations have provided assistance in the efforts to control the spread of the disease. Up until the end of September, the humanitarian aid organisation Médecins Sans Frontières (Doctors Without Borders) is the leading organization responding to the crisis, with several treatment centers in the area. Samaritan's Purse has also provided direct patient care and medical support in Liberia; many nations and charitable organizations, foundations, and individuals have also pledged assistance to control the epidemic. As of September 2014,
+Generated  :  to the call to action with a variety of responses.
+
+The United Nations, the World Bank, the International Monetary Fund, the World Trade Organization, the European Union, the United States, and the European Union all issued statements in support of the call to action.
+
+The United Nations Office for the Coordination of Humanitarian Affairs (OCHA) also issued a statement in support of the call to action.
+
+The World Bank issued a statement in support of the call to action.
+
+The International Monetary Fund issued a statement in support of the call to action.
+
+The World Trade Organization issued a statement in support of the call to action.
+
+The European Union issued a statement in support of the call to action.
+
+The United States issued a statement in support of the call to action.
+
+The European Union issued a statement in support of the call to action.
+
+The World Bank issued a statement in support of the call to action.
+
+The International Monetary Fund issued a statement in support of the call to action.
+
+The World Trade Organization issued a statement in support of the call to action.
+
+The European Union issued a statement in support of the call to action.
+
+The United States issued a statement in support of the call to action.
+
+The European Union issued a statement in support of the call to action.
+
+The United States issued a statement in support of the call to action.
+
+The European Union issued a statement in support of the call to action.
+
+The United States issued a statement in support of the call to action.
+
+The European Union issued a statement in support of the call to action.
+
+The United States issued a statement in support of the call to action.
+
+The European Union issued a statement in support of the call to action.
+
+The United States issued a statement in support of the call to action.
+
+The European Union issued a statement in support of the call to action.
+
+The United States issued a statement in support of the call to action.
+
+The European Union issued a statement in support of the call to action.
+
+The United States issued a statement in support of the call to action.
+
+The European Union issued a statement in support of the call to action.
+
+The United States issued a statement in support of the call to action.
+
+The European Union issued a statement in support of the
+--------------------------------------------------------------------------------
+[13] Label: 1 | Combined Score: -0.0141 | BLEU: 0.0187 | ROUGE-L: 0.1622 | BARTScore-F1: -4.6257
+Prompt     : Japanese whaling, in terms of active hunting of whales, is estimated
+Reference  : by the Japan Whaling Association to have begun around the 12th century However, Japanese whaling on an industrial
+Generated  :  to be about 1,000 whales a year.
+
+The International Whaling Commission (IWC) has banned commercial whaling since 1986.
+--------------------------------------------------------------------------------
+[14] Label: 1 | Combined Score: -0.0000 | BLEU: 0.0000 | ROUGE-L: 0.0000 | BARTScore-F1: -5.2382
+Prompt     : Presidential elections were held in Egypt
+Reference  : between 26 and 28
+Generated  :  on June 30, 2012.
+--------------------------------------------------------------------------------
+[15] Label: 1 | Combined Score: -0.0000 | BLEU: 0.0000 | ROUGE-L: 0.0000 | BARTScore-F1: -5.3011
+Prompt     : Simon Hall (1977 or 1978 – 23 February 2014) was a British murderer who was wrongly helped by 'miscarriage of justice'
+Reference  : campaigners, only for him to
+Generated  :  and was executed in 1978.
+--------------------------------------------------------------------------------
+[16] Label: 1 | Combined Score: -0.0000 | BLEU: 0.0000 | ROUGE-L: 0.0000 | BARTScore-F1: -6.1636
+Prompt     : Talking Statues is a project created initially in 2013 by David Peter Fox
+Reference  : in Copenhagen, Denmark involving pre-recorded voiceovers accompanying various statues
+Generated  : , a student at the University of California, Berkeley.
+--------------------------------------------------------------------------------
+[17] Label: 1 | Combined Score: -0.0057 | BLEU: 0.0166 | ROUGE-L: 0.0690 | BARTScore-F1: -4.9546
+Prompt     : During the ongoing Russo-Ukrainian War between the Ukrainian government forces and pro-Russian separatists in the Donbas region of Ukraine
+Reference  : that began in April 2014, many international organisations and states noted a deteriorating humanitarian situation
+Generated  : , the Russian military has been conducting airstrikes against the Ukrainian military in the region.
+--------------------------------------------------------------------------------
+[18] Label: 1 | Combined Score: -0.0189 | BLEU: 0.0302 | ROUGE-L: 0.1471 | BARTScore-F1: -4.2441
+Prompt     : Operation Car Wash (Portuguese: Operação Lava Jato) was a
+Reference  : criminal investigation by the Federal Police of Brazil's Curitiba branch It began in March 2014 and was initially headed by investigative judge Sérgio Moro, and in 2019 by Judge Luiz Antônio Bonat.
+Generated  :  Brazilian television series that aired from October 1, 2000 to October 1, 2001. It was created by the Brazilian television network, Televisa, and was produced by the Brazilian production company, A-1 Pictures.
+--------------------------------------------------------------------------------
+[19] Label: 1 | Combined Score: -0.0000 | BLEU: 0.0000 | ROUGE-L: 0.0000 | BARTScore-F1: -4.1060
+Prompt     : Euromaidan (; Ukrainian:
+Reference  : Євромайдан, romanized: Yevromaidan, lit 'Euro Square', IPA: [jeu̯romɐjˈdɑn]), or the Maidan Uprising, was a wave of demonstrations and civil unrest in Ukraine, which began on 21 November 2013 with large protests in Maidan Nezalezhnosti (Independence Square) in Kyiv. The protests were sparked by President Viktor Yanukovych's sudden decision not to sign the European Union–Ukraine Association Agreement, instead choosing closer ties to Russia and the Eurasian Economic Union. Ukraine's parliament had overwhelmingly approved of finalizing the Agreement with the EU, but Russia had put pressure on Ukraine to reject it. The scope
+Generated  :  Вормандая в Карандая в Карандая в Карандая в Карандая в Карандая в Карандая в Карандая в Карандая в Карандая в Карандая в Карандая в Карандая в Карандая в Карандая в Карандая в Карандая в Карандая в Карандая в Карандая в Карандая в Карандая в Карандая в Карандая в Карандая в Карандая в Карандая в Карандая в Карандая в Карандая в Карандая в Карандая в Карандая в Карандая в Карандая в Карандая в Карандая в Карандая в Карандая в Карандая в Карандая в Карандая в Карандая в Карандая в Карандая в Кар
+--------------------------------------------------------------------------------
+[20] Label: 0 | Combined Score: -0.0586 | BLEU: 0.0390 | ROUGE-L: 0.3000 | BARTScore-F1: -5.0088
+Prompt     : Beginning on 31 July 2022, tensions between Serbia and Kosovo heightened due to the expiration of the eleven-year validity
+Reference  : period of documents for cars on 1 August 2022, between the government of Kosovo and the Serbs in North Kosovo
+Generated  :  of the Kosovo Liberation Army (KLA) and the Kosovo Liberation Army (KLA) was declared illegal by the UN Security Council.
+--------------------------------------------------------------------------------
+[21] Label: 1 | Combined Score: -0.0012 | BLEU: 0.0040 | ROUGE-L: 0.0875 | BARTScore-F1: -3.4113
+Prompt     : Around midday on October 22, 2014, a passing motorist saw an Asian woman walking
+Reference  : north along the Ingraham Trail on the outskirts of Yellowknife in the Northwest Territories, Canada Several days later, after seeing stories in the local media that 45-year old Atsumi Yoshikubo (吉窪昌美) who had been visiting the city from her home in southern Japan, had gone missing, she reported the sighting. It was the last time she was seen alive. Yoshikubo's absence was first noted five days after that sighting, when staff at her hotel noticed she had not checked out two days after her stay was due to have ended. In her room they found her luggage, still packed; she had apparently never boarded her flight home. Footage from the hotel's security camera showed her leaving shortly before she was last seen along the road. When that sighting was reported in the news, it suggested to many residents that she might have gotten lost in the vast expanse of taiga surrounding the city, and they augmented official search efforts with their own ventures into the bush.The case attracted considerable media interest not only across Canada but also in Japan, where Yellowknife is a popular destination for those seeking to view the northern lights. A week after Yoshikubo's disappearance, the Royal Canadian Mounted Police (RCMP) announced that they were calling off the search, as their investigation, in cooperation with Japanese police, had led them to believe that she had intended to take her own life. Her family, from whom she had been estranged
+Generated  :  along the side of the road. She was wearing a black and white striped dress and a white headscarf. The woman was wearing a black and white striped dress and a white headscarf.
+
+The woman was wearing a black and white striped dress and a white headscarf.
+
+The woman was wearing a black and white striped dress and a white headscarf.
+
+The woman was wearing a black and white striped dress and a white headscarf.
+
+The woman was wearing a black and white striped dress and a white headscarf.
+
+The woman was wearing a black and white striped dress and a white headscarf.
+
+The woman was wearing a black and white striped dress and a white headscarf.
+
+The woman was wearing a black and white striped dress and a white headscarf.
+
+The woman was wearing a black and white striped dress and a white headscarf.
+
+The woman was wearing a black and white striped dress and a white headscarf.
+
+The woman was wearing a black and white striped dress and a white headscarf.
+
+The woman was wearing a black and white striped dress and a white headscarf.
+
+The woman was wearing a black and white striped dress and a white headscarf.
+
+The woman was wearing a black and white striped dress and a white headscarf.
+
+The woman was wearing a black and white striped dress and a white headscarf.
+
+The woman was wearing a black and white striped dress and a white headscarf.
+
+The woman was wearing a black and white striped dress and a white headscarf.
+
+The woman was wearing a black and white striped dress and a white headscarf.
+
+The woman was wearing a black and white striped dress and a white headscarf.
+
+The woman was wearing a black and white striped dress and a white headscarf.
+
+The woman was wearing a black and white striped dress and a white headscarf.
+
+The woman was wearing a black and white striped dress and a white headscarf.
+
+The woman was wearing a black and white striped dress and a white headscarf.
+
+The woman was wearing a black and white striped dress and a white headscarf.
+
+The woman was wearing a black and white striped dress and a white headscarf.
+
+The woman
+--------------------------------------------------------------------------------
+[22] Label: 1 | Combined Score: -0.0068 | BLEU: 0.0108 | ROUGE-L: 0.1499 | BARTScore-F1: -4.1778
+Prompt     : The 2014 Australian federal budget was the federal budget to
+Reference  : fund government services and operations for the 2014/15 financial year The 2014 budget was the first delivered by the Abbott government, since the Coalition's victory in the 2013 Australian federal election. Treasurer Joe Hockey presented the budget to the House of Representatives on 13 May 2014.The budget featured significant changes to address a perceived deficit crisis. This included a proposed dramatic downsizing of government bureaucracy, and contained significant changes to welfare, new initiatives for a medical research fund and spending on roads. A budget surplus exceeding 1% of GDP was not expected until 2023.The austere budget faced widespread criticism and was overwhelmingly rejected by the Australian public as reflected in all opinion polls after its release. Opposition to "unfair" budget measures came from the opposition and cross-bench, pensioners, economists, the union movement, students and welfare, community and disability groups with some taking to the streets in protest. The budget included changes which were contrary to pre-election commitments and promises made by the Liberals in opposition. Critics argue that every one of the following pre-election commitments made by Tony Abbott were broken in the first budget: "No cuts to education, no cuts to health, no change to pensions, no change to the GST and no cuts to the ABC or SBS." Echos of the "dead and buried" Fightback! policy package from the 1993 election occurred with proposals to defer unemployment benefits for six months for under 30s and the removal of GP bulk billing. Most proposals have
+Generated  :  end all budgets.
+
+The budget was the budget to end all budgets.
+
+The budget was the budget to end all budgets.
+
+The budget was the budget to end all budgets.
+
+The budget was the budget to end all budgets.
+
+The budget was the budget to end all budgets.
+
+The budget was the budget to end all budgets.
+
+The budget was the budget to end all budgets.
+
+The budget was the budget to end all budgets.
+
+The budget was the budget to end all budgets.
+
+The budget was the budget to end all budgets.
+
+The budget was the budget to end all budgets.
+
+The budget was the budget to end all budgets.
+
+The budget was the budget to end all budgets.
+
+The budget was the budget to end all budgets.
+
+The budget was the budget to end all budgets.
+
+The budget was the budget to end all budgets.
+
+The budget was the budget to end all budgets.
+
+The budget was the budget to end all budgets.
+
+The budget was the budget to end all budgets.
+
+The budget was the budget to end all budgets.
+
+The budget was the budget to end all budgets.
+
+The budget was the budget to end all budgets.
+
+The budget was the budget to end all budgets.
+
+The budget was the budget to end all budgets.
+
+The budget was the budget to end all budgets.
+
+The budget was the budget to end all budgets.
+
+The budget was the budget to end all budgets.
+
+The budget was the budget to end all budgets.
+
+The budget was the budget to end all budgets.
+
+The budget was the budget to end all budgets.
+
+The budget was the budget to end all budgets.
+
+The budget was the budget to end all budgets.
+
+The budget was the budget to end all budgets.
+
+The budget was the budget to end all budgets.
+
+The budget was the budget to end all budgets.
+
+The budget was the budget to end all budgets.
+
+The budget was the budget to end all budgets.
+
+The budget was the budget to end all budgets.
+
+The budget was the budget to end all budgets.
+
+The budget was the budget to end all budgets.
+
+The budget was the budget to end all budgets.
+
+The budget
+--------------------------------------------------------------------------------
+[23] Label: 1 | Combined Score: -0.1411 | BLEU: 0.0725 | ROUGE-L: 0.3333 | BARTScore-F1: -5.8394
+Prompt     : The Argentine debt restructuring is a process of debt restructuring by Argentina that began on January 14, 2005, and allowed it to resume payment
+Reference  : on 76% of
+Generated  :  on its debt.
+--------------------------------------------------------------------------------
+[24] Label: 1 | Combined Score: -0.0293 | BLEU: 0.0352 | ROUGE-L: 0.1860 | BARTScore-F1: -4.4609
+Prompt     : Julieka Ivanna Dhu (commonly referred to as Ms Dhu; her first name was generally not used in media reports out of respect
+Reference  : for Aboriginal naming customs) was a 22-year-old Aboriginal Australian woman who died in police custody in South Hedland, Western Australia,
+Generated  :  for her family) was a Russian-born American actress, model, and model. She was born in Moscow, Russia, to Russian parents.
+--------------------------------------------------------------------------------
+[25] Label: 1 | Combined Score: -0.0277 | BLEU: 0.0330 | ROUGE-L: 0.2222 | BARTScore-F1: -3.7813
+Prompt     : Arturo (1985 – July 3, 2016) was a polar bear living in Mendoza
+Reference  : Zoological Park in Mendoza, Argentina, the only polar bear living in the country He was born in the United States and transferred to Argentina
+Generated  : , Argentina. He was the son of the late Josefina (1926 – July 3, 2016) and the late Maria (1926 – July 3, 2016).
+--------------------------------------------------------------------------------
+[26] Label: 1 | Combined Score: -0.0000 | BLEU: 0.0000 | ROUGE-L: 0.0000 | BARTScore-F1: -6.6822
+Prompt     : Malaysia Airlines Flight 17 (MH17/MAS17) was a scheduled passenger flight from Amsterdam to Kuala Lumpur
+Reference  : that
+Generated  : .
+--------------------------------------------------------------------------------
+[28] Label: 0 | Combined Score: -0.0074 | BLEU: 0.0122 | ROUGE-L: 0.1316 | BARTScore-F1: -4.5780
+Prompt     : In April 2023, two sets of classified foreign intelligence documents
+Reference  : of the United States began circulating on Twitter, Telegram, and 4chan Jack Teixeira, an airman first class of the Massachusetts Air National Guard, had allegedly photographed printouts of the documents at his parents' home in Dighton, Massachusetts
+Generated  :  were leaked to the press. The first was a classified report on the Russian military's involvement in the Syrian civil war. The second was a classified report on the Russian military's involvement in the Syrian civil war.
+--------------------------------------------------------------------------------
+[29] Label: 1 | Combined Score: -0.0244 | BLEU: 0.0376 | ROUGE-L: 0.1333 | BARTScore-F1: -4.8699
+Prompt     : The analysis of communications between Malaysia Airlines Flight 370 and Inmarsat's satellite telecommunication network provide the primary source of information about Flight 370's location and possible in-flight events after it disappeared from military radar coverage at
+Reference  : 2:22 Malaysia Standard Time (MYT) on
+Generated  :  1:30 a.m. on March 8, 2014.
+--------------------------------------------------------------------------------
+[30] Label: 1 | Combined Score: -0.0512 | BLEU: 0.0340 | ROUGE-L: 0.2500 | BARTScore-F1: -6.0181
+Prompt     : Presidential elections were held in Croatia on 28 December 2014 and
+Reference  : 11 January 2015, the sixth such elections since
+Generated  :  the results were declared on 1 January 2015.
+--------------------------------------------------------------------------------
+[31] Label: 0 | Combined Score: -0.0000 | BLEU: 0.0000 | ROUGE-L: 0.0000 | BARTScore-F1: -3.9767
+Prompt     : The International Year of Basic Sciences for Sustainable Development was proclaimed by the 76th session of the United Nations General Assembly 2 December 2021 for 2022, stressing that the applications of basic sciences are vital for advances in medicine, industry,
+Reference  : agriculture, water resources, energy
+Generated  :  education, and the environment.
+--------------------------------------------------------------------------------
+[32] Label: 1 | Combined Score: -0.0000 | BLEU: 0.0000 | ROUGE-L: 0.0000 | BARTScore-F1: -4.5059
+Prompt     : The 2014 Nuclear Security Summit was a summit held in
+Reference  : The Hague, the Netherlands, on March 24 and
+Generated  :  Washington, DC, from June 14 to 16, 2014.
+--------------------------------------------------------------------------------
+[33] Label: 0 | Combined Score: -0.0057 | BLEU: 0.0081 | ROUGE-L: 0.1746 | BARTScore-F1: -4.0136
+Prompt     : A motion of no confidence in the Spanish government of Pedro Sánchez was tabled by the far-right party Vox on
+Reference  : 27 February 2023, and will be debated and voted in the Congress of Deputies between 21 and 22 March 2023 It was the sixth motion of no confidence in Spain since the country's transition to democracy.Vox announced the motion of no confidence on 9 December 2022, proposing it to be tabled under an independent candidate with government experience, voicing that Sánchez's proposed reforms of the Criminal Code to modify the embezzlement and sedition crimes were akin to a "self-coup" similar to "that of Pedro Castillo in Peru" two days earlier. The opposition People's Party (PP) under Alberto Núñez Feijóo stated that it would not vote against the motion, unlike the 2020 vote, but it did not clarify whether it would abstain or vote in favour of it depending on the proposed candidate.After a period in which Vox was unable to get the consent of any of the candidates it reached out for, on 1 February 2023 the party proposed economist and former politician Ramón Tamames, aged 89, to lead the motion. Tamames accepted on 21 February, with the motion's registration being announced for the next Monday. His speech highlights the maneuvers against the separation of powers towards an "absorbing autocracy" with abuse of the decree-law, elimination of the crime of sedition or reduction of sentences for embezzlement, support in pro-independence parties, little conciliatory line of government, partisan manipulation of history, attacks on legal certainty and businessmen
+Generated  :  Wednesday.
+
+The motion, which was tabled by the far-right party Vox, calls for the resignation of the Spanish government of Pedro Sánchez.
+
+The motion was tabled by the far-right party Vox on Wednesday.
+
+The motion, which was tabled by the far-right party Vox, calls for the resignation of the Spanish government of Pedro Sánchez.
+
+The motion, which was tabled by the far-right party Vox, calls for the resignation of the Spanish government of Pedro Sánchez.
+
+The motion, which was tabled by the far-right party Vox, calls for the resignation of the Spanish government of Pedro Sánchez.
+
+The motion, which was tabled by the far-right party Vox, calls for the resignation of the Spanish government of Pedro Sánchez.
+
+The motion, which was tabled by the far-right party Vox, calls for the resignation of the Spanish government of Pedro Sánchez.
+
+The motion, which was tabled by the far-right party Vox, calls for the resignation of the Spanish government of Pedro Sánchez.
+
+The motion, which was tabled by the far-right party Vox, calls for the resignation of the Spanish government of Pedro Sánchez.
+
+The motion, which was tabled by the far-right party Vox, calls for the resignation of the Spanish government of Pedro Sánchez.
+
+The motion, which was tabled by the far-right party Vox, calls for the resignation of the Spanish government of Pedro Sánchez.
+
+The motion, which was tabled by the far-right party Vox, calls for the resignation of the Spanish government of Pedro Sánchez.
+
+The motion, which was tabled by the far-right party Vox, calls for the resignation of the Spanish government of Pedro Sánchez.
+
+The motion, which was tabled by the far-right party Vox, calls for the resignation of the Spanish government of Pedro Sánchez.
+
+The motion, which was tabled by the far-right party Vox, calls for the resignation of the Spanish government of Pedro Sánchez.
+
+The motion, which was tabled by the far-right party Vox, calls for the resignation of the Spanish government of Pedro Sánchez.
+
+--------------------------------------------------------------------------------
+[34] Label: 1 | Combined Score: -0.0000 | BLEU: 0.0000 | ROUGE-L: 0.0000 | BARTScore-F1: -6.2072
+Prompt     : The World Cultural Council performed its 31st Award Ceremony on November 17,
+Reference  : 2014 at the Dipoli
+Generated  :  2016 in Beijing, China.
+--------------------------------------------------------------------------------
+[35] Label: 0 | Combined Score: -0.0549 | BLEU: 0.0462 | ROUGE-L: 0.3077 | BARTScore-F1: -3.8630
+Prompt     : The 16th Congress of the Popular Front for the Liberation of Saguia El Hamra and Río de Oro (Arabic: المؤتمر السادس عشر للجبهة الشعبية لتحرير الساقية الحمراء ووادي الذهب, Spanish: XVI Congreso del Frente Popular para la Liberación de Saguia El Hamra y
+Reference  : Río de Oro) was held in the Dajla refugee camp in Tindouf, Algeria between 13 and 22 January
+Generated  :  Río de Oro, Saguia El Hamra, Río de Oro, Spain) was held from 20 to 24 September 2017.
+--------------------------------------------------------------------------------
+[36] Label: 0 | Combined Score: -0.0350 | BLEU: 0.0235 | ROUGE-L: 0.2667 | BARTScore-F1: -5.5887
+Prompt     : The 28th Edition of Star Awards 2023 (Chinese: 红星大奖2023) is a television award
+Reference  : ceremony that honoured the best in Singaporean television released between January and December 2022 Star
+Generated  :  show that was broadcast on the Chinese television network CCTV from January to March 2018.
+--------------------------------------------------------------------------------
+[37] Label: 0 | Combined Score: -0.0047 | BLEU: 0.0076 | ROUGE-L: 0.1713 | BARTScore-F1: -3.6068
+Prompt     : A series of changes to the judicial system and the
+Reference  : balance of powers in Israel was proposed in January 2023 The effort has been spearheaded by Deputy Prime Minister and Minister of Justice Yariv Levin and the Chair of the Knesset's Constitution, Law and Justice Committee, Simcha Rothman. It seeks to curb the judiciary's influence over lawmaking and public policy by limiting the Supreme Court's power to exercise judicial review, granting the government control over judicial appointments and limiting the authority of its legal advisors.If adopted, the reform would grant the Knesset the power to override Supreme Court rulings that deem legislation passed by the Knesset as unconstitutional, by reintroducing the legislation and approving it with a majority of Knesset members. The reform would additionally diminish the ability of courts to conduct judicial review of the Basic Laws and change the makeup of the Judicial Selection Committee, so that control over the appointment of judges is effectively given to the government. Levin and the ruling government coalition have stated that the above is the first step in their judicial reform, and that additional steps are planned, including changing the appointment process of legal advisors to government ministries, such that they are appointed and dismissed by the ministers; making their legal advice a recommendation rather than binding on the ministers; and making them subordinate directly to the ministers rather than to the Justice Ministry's professional oversight. Prime Minister Benjamin Netanyahu maintains that the reform is necessary because the judiciary has too much control over public policy, and
+Generated  :  way it is administered will be introduced in the coming months.
+
+The changes will include:
+
+The appointment of a new Chief Justice of the High Court, who will be appointed by the Governor-General.
+
+The appointment of a new Chief Justice of the Supreme Court, who will be appointed by the Governor-General.
+
+The appointment of a new Chief Justice of the Court of Appeal, who will be appointed by the Governor-General.
+
+The appointment of a new Chief Justice of the Court of Criminal Appeal, who will be appointed by the Governor-General.
+
+The appointment of a new Chief Justice of the Court of Appeal, who will be appointed by the Governor-General.
+
+The appointment of a new Chief Justice of the Court of Criminal Appeal, who will be appointed by the Governor-General.
+
+The appointment of a new Chief Justice of the Court of Criminal Appeal, who will be appointed by the Governor-General.
+
+The appointment of a new Chief Justice of the Court of Criminal Appeal, who will be appointed by the Governor-General.
+
+The appointment of a new Chief Justice of the Court of Criminal Appeal, who will be appointed by the Governor-General.
+
+The appointment of a new Chief Justice of the Court of Criminal Appeal, who will be appointed by the Governor-General.
+
+The appointment of a new Chief Justice of the Court of Criminal Appeal, who will be appointed by the Governor-General.
+
+The appointment of a new Chief Justice of the Court of Criminal Appeal, who will be appointed by the Governor-General.
+
+The appointment of a new Chief Justice of the Court of Criminal Appeal, who will be appointed by the Governor-General.
+
+The appointment of a new Chief Justice of the Court of Criminal Appeal, who will be appointed by the Governor-General.
+
+The appointment of a new Chief Justice of the Court of Criminal Appeal, who will be appointed by the Governor-General.
+
+The appointment of a new Chief Justice of the Court of Criminal Appeal, who will be appointed by the Governor-General.
+
+The appointment of a new Chief Justice of the Court of Criminal Appeal, who will be appointed by the Governor-General.
+
+The appointment of a new Chief Justice of the Court of Criminal Appeal, who will be appointed by the Governor-General.
+
+The appointment of a new Chief Justice of the Court of Criminal Appeal, who will be
+--------------------------------------------------------------------------------
+[38] Label: 1 | Combined Score: -0.0088 | BLEU: 0.0177 | ROUGE-L: 0.1333 | BARTScore-F1: -3.7177
+Prompt     : The 2013–2014 Thai political crisis was
+Reference  : a period of political instability in Thailand Anti-government protests took place between November 2013 and May 2014, organised by the People's
+Generated  :  the first time that the country's political system has been in crisis since the end of the military dictatorship in 2006.
+--------------------------------------------------------------------------------
+[39] Label: 1 | Combined Score: -0.4625 | BLEU: 0.2778 | ROUGE-L: 0.5000 | BARTScore-F1: -3.3298
+Prompt     : The Schellenberg smuggling incident is a case in which Canadian citizen Robert Lloyd Schellenberg was
+Reference  : arrested, tried, and convicted on charges of smuggling drugs in
+Generated  :  arrested in the United States on charges of smuggling marijuana.
+--------------------------------------------------------------------------------
+[40] Label: 1 | Combined Score: -0.0000 | BLEU: 0.0000 | ROUGE-L: 0.0000 | BARTScore-F1: -6.7141
+Prompt     : The 2014 UEC European Track Championships was the fifth edition of the elite UEC European Track Championships in
+Reference  : track cycling and
+Generated  :  the Czech Republic.
+--------------------------------------------------------------------------------
+[41] Label: 1 | Combined Score: -0.0054 | BLEU: 0.0197 | ROUGE-L: 0.0667 | BARTScore-F1: -4.1103
+Prompt     : In July 2014, an internationally publicised incident occurred in which a Thai woman, Pattaramon Janbua, who had been
+Reference  : hired as a surrogate mother for an Australian couple, sought to raise money for her
+Generated  :  living in the UK for over a decade, was allegedly raped by a British man.
+--------------------------------------------------------------------------------
+[42] Label: 0 | Combined Score: -0.0348 | BLEU: 0.0460 | ROUGE-L: 0.1935 | BARTScore-F1: -3.9032
+Prompt     : The 2023 Stanley Cup playoffs is the ongoing playoff tournament
+Reference  : of the National Hockey League (NHL) for the 2022–23 season The playoffs began on April
+Generated  :  for the Stanley Cup. The Stanley Cup is the most prestigious trophy in the world.
+--------------------------------------------------------------------------------
+[43] Label: 1 | Combined Score: -0.0416 | BLEU: 0.0456 | ROUGE-L: 0.2000 | BARTScore-F1: -4.5546
+Prompt     : The 2014 Burkina Faso uprising was a series of demonstrations and riots
+Reference  : in Burkina Faso in October
+Generated  :  that began in December 2013.
+--------------------------------------------------------------------------------
+[44] Label: 1 | Combined Score: -0.0000 | BLEU: 0.0000 | ROUGE-L: 0.0000 | BARTScore-F1: -6.7084
+Prompt     : From March 2012 to May 2014, the Salvadoran government, the Catholic Church, and the country's two largest criminal gangs, Mara Salvatrucha (MS-13) and the 18th Street gang (Barrio 18), came to a
+Reference  : truce, known
+Generated  :  peace agreement.
+--------------------------------------------------------------------------------
+[45] Label: 0 | Combined Score: -0.0000 | BLEU: 0.0000 | ROUGE-L: 0.0000 | BARTScore-F1: -5.5584
+Prompt     : The Reddings was an American funk, soul and disco band, founded by Otis Redding's sons Dexter (bass and vocals) and Otis
+Reference  : Redding III (December 17, 1963 – April 18, 2023 age 59; guitar) together with Mark Lockett
+Generated  :  (drums). The band was formed in 1966 and released their first album, "The Redings", in 1967.
+--------------------------------------------------------------------------------
+[46] Label: 0 | Combined Score: -0.0071 | BLEU: 0.0200 | ROUGE-L: 0.0833 | BARTScore-F1: -4.2478
+Prompt     : From January 28 to February 4, 2023, a Chinese-operated high-altitude balloon was spotted
+Reference  : in North American airspace, including Alaska, western Canada, and the contiguous United
+Generated  :  flying over the Pacific Ocean. The balloon was carrying a Chinese flag.
+--------------------------------------------------------------------------------
+[47] Label: 1 | Combined Score: -0.1773 | BLEU: 0.1114 | ROUGE-L: 0.4138 | BARTScore-F1: -3.8474
+Prompt     : The Willis Resilience Expedition was a scientific and exploratory program that took place in Antarctica from November 2013 to January 2014, with
+Reference  : the goal of a better understanding of changes in the Earth's climate brought on
+Generated  :  the goal of studying the effects of climate change on the Antarctic ice sheet.
+--------------------------------------------------------------------------------
+[48] Label: 0 | Combined Score: -0.0000 | BLEU: 0.0000 | ROUGE-L: 0.0000 | BARTScore-F1: -6.2506
+Prompt     : The 7th Crunchyroll Anime Awards was held on March 4, 2023, at the
+Reference  : Main Banquet Hall
+Generated  :  Tokyo Big Sight.
+--------------------------------------------------------------------------------
+[49] Label: 1 | Combined Score: -0.0000 | BLEU: 0.0000 | ROUGE-L: 0.0000 | BARTScore-F1: -7.2045
+Prompt     : Presidential elections were held in Afghanistan on 5 April
+Reference  : 2014,
+Generated  : .
+--------------------------------------------------------------------------------
+[50] Label: 0 | Combined Score: -0.0177 | BLEU: 0.0223 | ROUGE-L: 0.1429 | BARTScore-F1: -5.5505
+Prompt     : An ongoing refugee crisis began in Europe in
+Reference  : late February 2022 after Russia's invasion of Ukraine Over 8.1 million refugees fleeing
+Generated  :  2015, when thousands of people fleeing war and poverty arrived in the continent.
+--------------------------------------------------------------------------------
+[51] Label: 1 | Combined Score: -0.0170 | BLEU: 0.0223 | ROUGE-L: 0.1765 | BARTScore-F1: -4.3243
+Prompt     : On the afternoon of 24 May 2014, a gunman opened fire
+Reference  : at the Jewish Museum of Belgium in Brussels, killing four people Three of them, an Israeli couple
+Generated  :  on a crowd of people in the city of Nice, France. The gunman was killed by police.
+--------------------------------------------------------------------------------
+[52] Label: 0 | Combined Score: -0.0000 | BLEU: 0.0000 | ROUGE-L: 0.0000 | BARTScore-F1: -6.6591
+Prompt     : Parliamentary elections were held in Estonia on 5 March
+Reference  : 2023
+Generated  : .
+--------------------------------------------------------------------------------
+[53] Label: 0 | Combined Score: -0.0545 | BLEU: 0.0456 | ROUGE-L: 0.2000 | BARTScore-F1: -5.9711
+Prompt     : The 2023 Princess Auto Players' Championship was held from April
+Reference  : 11 to 16 at the
+Generated  :  23 to May 1, 2018.
+--------------------------------------------------------------------------------
+[54] Label: 0 | Combined Score: -0.0143 | BLEU: 0.0204 | ROUGE-L: 0.2051 | BARTScore-F1: -3.4167
+Prompt     : Wrestle Kingdom 17 was a two-day professional wrestling pay-per-view (PPV) event co-produced
+Reference  : by the New Japan Pro-Wrestling (NJPW) and Pro Wrestling Noah (Noah) promotions The first day of the event took
+Generated  :  by WWE and TNA. The event was held at the Toyota Center in Houston, Texas on November 17, 2017.
+--------------------------------------------------------------------------------
+[55] Label: 1 | Combined Score: -0.2500 | BLEU: 0.0675 | ROUGE-L: 0.5000 | BARTScore-F1: -7.4039
+Prompt     : The Vienna Summer of Logic was a scientific event in the summer of 2014, combining 12 major conferences
+Reference  : and several
+Generated  :  and workshops.
+--------------------------------------------------------------------------------
+[56] Label: 1 | Combined Score: -0.1096 | BLEU: 0.0610 | ROUGE-L: 0.2500 | BARTScore-F1: -7.1817
+Prompt     : The Minsk agreements were a series of international agreements which sought to end the Donbas war fought
+Reference  : between armed Russian separatist
+Generated  :  between Ukraine and Russia.
+--------------------------------------------------------------------------------
+[57] Label: 0 | Combined Score: -0.0088 | BLEU: 0.0104 | ROUGE-L: 0.2154 | BARTScore-F1: -3.9345
+Prompt     : Global news flow (also referred to as international news flow) is a field
+Reference  : of study that deals with the news coverage of events in foreign countries It describes and explains the flow of news from one country to another.Studies on global news flow typically attempt to understand why certain countries are more newsworthy than others.. Along the years it has been found that the economic power of countries plays a particularly crucial role in their news prominence as well as the presence of international news agencies. Thus, the US has been found to be very prominent in news mentions around the world (18%), followed by China, Western European and Middle Eastern countries (about 3-5% each).The unequal representation of the world and the under-representation of developing countries have been already of a great concern at least since the 1950s, since they influence the way people perceive the world and the image of countries. This problem was later addressed in the MacBride report, and his set of recommendations for a New World Information and Communication Order. The unequal representation of the world has been also linked to the World System Theory, and the unequal economic structure of the world.A 2014 study, examining 35 popular news website in ten different languages over a two-year study period, found that "the United States is by far the most prominent country in the news sites that we studied from around the world, except for the French and Arabic ones" and the "network structure of news links clearly exhibits [the U.S.'s] key position
+Generated  :  of study that studies the flow of information in the world. It is a field of study that studies the flow of information in the world.
+
+The flow of information is the flow of information in the world. It is a field of study that studies the flow of information in the world.
+
+The flow of information is the flow of information in the world. It is a field of study that studies the flow of information in the world.
+
+The flow of information is the flow of information in the world. It is a field of study that studies the flow of information in the world.
+
+The flow of information is the flow of information in the world. It is a field of study that studies the flow of information in the world.
+
+The flow of information is the flow of information in the world. It is a field of study that studies the flow of information in the world.
+
+The flow of information is the flow of information in the world. It is a field of study that studies the flow of information in the world.
+
+The flow of information is the flow of information in the world. It is a field of study that studies the flow of information in the world.
+
+The flow of information is the flow of information in the world. It is a field of study that studies the flow of information in the world.
+
+The flow of information is the flow of information in the world. It is a field of study that studies the flow of information in the world.
+
+The flow of information is the flow of information in the world. It is a field of study that studies the flow of information in the world.
+
+The flow of information is the flow of information in the world. It is a field of study that studies the flow of information in the world.
+
+The flow of information is the flow of information in the world. It is a field of study that studies the flow of information in the world.
+
+The flow of information is the flow of information in the world. It is a field of study that studies the flow of information in the world.
+
+The flow of information is the flow of information in the world. It is a field of study that studies the flow of information in the world.
+
+The flow of information is the flow of information in the world. It is a field of study that studies the flow of information in the world.
+
+The flow of information is
+--------------------------------------------------------------------------------
+[58] Label: 1 | Combined Score: -0.0440 | BLEU: 0.0515 | ROUGE-L: 0.2051 | BARTScore-F1: -4.1663
+Prompt     : The 2014–15 North American winter was frigid and prolifically wintry, especially
+Reference  : across the eastern half of North America in the months of January–March The season began early, with
+Generated  :  in the eastern United States. The average annual temperature was 1.8°C (3.1°F) below the 20th century average.
+--------------------------------------------------------------------------------
+[59] Label: 0 | Combined Score: -0.0978 | BLEU: 0.0479 | ROUGE-L: 0.4375 | BARTScore-F1: -4.6619
+Prompt     : The 29th Annual Screen Actors Guild Awards, honoring the best achievements in film and television performances for
+Reference  : the year 2022, were presented on February 26, 2023 at the Fairmont Century Plaza in Century
+Generated  :  the past year, will be held on Sunday, February 24, at the Dolby Theatre in Hollywood.
+--------------------------------------------------------------------------------
+[60] Label: 1 | Combined Score: -0.2406 | BLEU: 0.0907 | ROUGE-L: 0.5714 | BARTScore-F1: -4.6424
+Prompt     : The 19th Empire Awards ceremony (officially known as the Jameson Empire Awards), presented by the British film magazine Empire, honored
+Reference  : the best films of 2013 and took
+Generated  :  the best British film of the year.
+--------------------------------------------------------------------------------
+[61] Label: 1 | Combined Score: -0.0465 | BLEU: 0.0456 | ROUGE-L: 0.2000 | BARTScore-F1: -5.0924
+Prompt     : Patagotitan is a genus of titanosaurian sauropod dinosaur from
+Reference  : the Cerro Barcino Formation in
+Generated  :  the Late Cretaceous of Argentina.
+--------------------------------------------------------------------------------
+[62] Label: 0 | Combined Score: -1.3480 | BLEU: 0.5081 | ROUGE-L: 0.6667 | BARTScore-F1: -3.9793
+Prompt     : Severe Tropical Cyclone Gabrielle was a severe tropical cyclone that devastated the North
+Reference  : Island of New Zealand and affected
+Generated  :  Island of New Zealand on Monday.
+--------------------------------------------------------------------------------
+[63] Label: 0 | Combined Score: -0.0000 | BLEU: 0.0000 | ROUGE-L: 0.0000 | BARTScore-F1: -6.5633
+Prompt     : The 76th British Academy Film Awards, more commonly known as the BAFTAs, were held on 19 February 2023,
+Reference  : honouring the
+Generated  :  in London.
+--------------------------------------------------------------------------------
+[64] Label: 0 | Combined Score: -0.0299 | BLEU: 0.0306 | ROUGE-L: 0.2105 | BARTScore-F1: -4.6467
+Prompt     : 2023 International Conference on Climate Resilient Pakistan, more commonly referred to as 2023 Geneva conference,
+Reference  : was a one-day international conference on aid to Pakistani
+Generated  :  was held in Islamabad, Pakistan, on September 20, 2023.
+--------------------------------------------------------------------------------
+[65] Label: 1 | Combined Score: -0.0085 | BLEU: 0.0176 | ROUGE-L: 0.1429 | BARTScore-F1: -3.3953
+Prompt     : The Eurovision Song Contest 2014 was the
+Reference  : 59th edition of the Eurovision Song Contest It took place in Copenhagen, Denmark, following
+Generated  :  first time that the song "I Love You" was performed by a female artist.
+--------------------------------------------------------------------------------
+[66] Label: 0 | Combined Score: -0.0389 | BLEU: 0.0613 | ROUGE-L: 0.1633 | BARTScore-F1: -3.8846
+Prompt     : The Swedish anti-terrorism bill of 2023 refers to
+Reference  : the anti-terrorism legislation debated by the Swedish parliament The new legislation has been first proposed in 2017 following the Stockholm truck attack and would criminalise "the participation in a terrorist organisation". Sweden has debated introducing anti-terrorism legislation before but those efforts has been hampered by human rights activists.
+Generated  :  the "threat of terrorism" as a "serious crime" and "a crime of the highest international importance".
+
+The bill also includes a new provision that would allow the government to detain suspects for up to six months without charge.
+
+The bill was approved by the Swedish parliament on Wednesday.
+--------------------------------------------------------------------------------
+[67] Label: 1 | Combined Score: -0.0875 | BLEU: 0.0712 | ROUGE-L: 0.2500 | BARTScore-F1: -4.9131
+Prompt     : Anti-government protests (Khmer: បាតុកម្មប្រឆាំងរាជរដ្ឋាភិបាល) were a series of
+Reference  : protests in Cambodia from July 2013 to July
+Generated  :  protests in the country in the early 1990s.
+--------------------------------------------------------------------------------
+[68] Label: 0 | Combined Score: -0.0000 | BLEU: 0.0000 | ROUGE-L: 0.0000 | BARTScore-F1: -5.6989
+Prompt     : The 2023 Berlin repeat state election was held on 12
+Reference  : February
+Generated  :  September.
+--------------------------------------------------------------------------------
+[69] Label: 1 | Combined Score: -0.0000 | BLEU: 0.0000 | ROUGE-L: 1.0000 | BARTScore-F1: -5.0562
+Prompt     : Malaysia Airlines Flight 370 (MH370/MAS370) was an international passenger flight operated by Malaysia Airlines that disappeared on 8 March
+Reference  : 2014
+Generated  :  2014.
+--------------------------------------------------------------------------------
+[70] Label: 1 | Combined Score: -0.0000 | BLEU: 0.0000 | ROUGE-L: 0.0000 | BARTScore-F1: -7.5589
+Prompt     : General elections were held in Costa Rica on Sunday, 2 February 2014
+Reference  : to
+Generated  : .
+--------------------------------------------------------------------------------
+[71] Label: 1 | Combined Score: -0.0000 | BLEU: 0.0000 | ROUGE-L: 0.0000 | BARTScore-F1: -4.4669
+Prompt     : The Rotherham child sexual exploitation scandal consists of the organised child sexual abuse that occurred in the town of Rotherham, South Yorkshire, Northern England
+Reference  : from the late 1980s until
+Generated  : , between 1997 and 2013.
+--------------------------------------------------------------------------------
+[72] Label: 0 | Combined Score: -0.0013 | BLEU: 0.0030 | ROUGE-L: 0.1115 | BARTScore-F1: -4.0513
+Prompt     : World news or international news or even foreign coverage is the news
+Reference  : media jargon for news from abroad, about a country or a global subject For journalism, it is a branch that deals with news either sent by foreign correspondents or news agencies, or – more recently – information that is gathered or researched through distance communication technologies, such as telephone, satellite TV or the internet. Although in most of the English-speaking world this field is not usually regarded as a specific specialization for journalists, it is so in nearly all the world. Particularly in the United States, there is a blurred distinction between world news and "national" news when they include directly the national government or national institutions, such as wars in which the US are involved or summits of multilateral organizations in which the US are a member. At the birth of modern journalism, most news were foreign, as registered by the courants of the 17th century in West and Central Europe, such as the Daily Courant (England), the Nieuwe Tijudinger (Antwerp), the Relation (Strasbourg), the Avisa Relation oder Zeitung (Wolfenbüttel) and the Courante Uyt Italien, Duytsland & C. (Amsterdam). Since these papers were aimed at bankers and merchants, they brought mostly news from other markets, which usually meant other nations. In any case, it is worthy to remark that nation-states were still incipient in 17th-century Europe. From the 19th century on, with newspapers already established in Europe, the United States and a few other countries, innovations in telecommunications such as the telegraph made
+Generated  : .
+
+The news is the news.
+
+The news is the news.
+
+The news is the news.
+
+The news is the news.
+
+The news is the news.
+
+The news is the news.
+
+The news is the news.
+
+The news is the news.
+
+The news is the news.
+
+The news is the news.
+
+The news is the news.
+
+The news is the news.
+
+The news is the news.
+
+The news is the news.
+
+The news is the news.
+
+The news is the news.
+
+The news is the news.
+
+The news is the news.
+
+The news is the news.
+
+The news is the news.
+
+The news is the news.
+
+The news is the news.
+
+The news is the news.
+
+The news is the news.
+
+The news is the news.
+
+The news is the news.
+
+The news is the news.
+
+The news is the news.
+
+The news is the news.
+
+The news is the news.
+
+The news is the news.
+
+The news is the news.
+
+The news is the news.
+
+The news is the news.
+
+The news is the news.
+
+The news is the news.
+
+The news is the news.
+
+The news is the news.
+
+The news is the news.
+
+The news is the news.
+
+The news is the news.
+
+The news is the news.
+
+The news is the news.
+
+The news is the news.
+
+The news is the news.
+
+The news is the news.
+
+The news is the news.
+
+The news is the news.
+
+The news is the news.
+
+The news is the news.
+
+The news is the news.
+
+The news is the news.
+
+The news is the news.
+
+The news is the news.
+
+The news is the news.
+
+The news is the news.
+
+The news is the news.
+
+The news is the news.
+
+The news is the news.
+
+The news is the news.
+
+The news is the news.
+
+The news is the news.
+
+The
+--------------------------------------------------------------------------------
+[73] Label: 0 | Combined Score: -0.1026 | BLEU: 0.0526 | ROUGE-L: 0.3846 | BARTScore-F1: -5.0683
+Prompt     : The 65th Annual Grammy Awards ceremony was
+Reference  : a music awards ceremony held at the Crypto com Arena in Los Angeles
+Generated  :  held on Sunday, February 12, 2017 at Staples Center in Los Angeles, California.
+--------------------------------------------------------------------------------
+[75] Label: 1 | Combined Score: -0.1056 | BLEU: 0.0528 | ROUGE-L: 0.4167 | BARTScore-F1: -4.7973
+Prompt     : The blockade of the Gaza Strip is the ongoing land, air, and sea blockade of the Gaza Strip
+Reference  : imposed by Israel and Egypt temporarily in 2005–2006 and permanently from 2007
+Generated  : . The blockade is imposed by Israel, Egypt, and the Palestinian Authority.
+--------------------------------------------------------------------------------
+[76] Label: 1 | Combined Score: -0.0442 | BLEU: 0.0340 | ROUGE-L: 0.2500 | BARTScore-F1: -5.1970
+Prompt     : Mercedes-Benz Fashion Week is an annual
+Reference  : fashion industry event held in Sydney, Australia The
+Generated  :  event that takes place in New York City.
+--------------------------------------------------------------------------------
+[77] Label: 1 | Combined Score: -0.0127 | BLEU: 0.0170 | ROUGE-L: 0.1364 | BARTScore-F1: -5.4491
+Prompt     : On 3 October 2014, Canadian Prime Minister Stephen Harper announced that he would put forth a motion
+Reference  : to send forces to participate in the coalition for military intervention against ISIL by deploying combat aircraft On 7 October 2014, the
+Generated  :  to the House of Commons to amend the Canadian Human Rights Act to include gender identity and gender expression as protected classes.
+--------------------------------------------------------------------------------
+[78] Label: 0 | Combined Score: -0.0241 | BLEU: 0.0244 | ROUGE-L: 0.2182 | BARTScore-F1: -4.5250
+Prompt     : The Good News International Ministries (GNIM), commonly known as
+Reference  : the Malindi cult and previously as the Servant P N. Mackenzie Ministries, is a new religious movement based in Shakahola, Kilifi, Kenya, that was founded by Paul Nthenge Mackenzie and his wife in 2003. Though often listed as a Christian organisation, many of its teachings contradict mainstream Christianity. The group attracted international attention in April
+Generated  :  the "Good News" ministry, is a Christian ministry that is based in the United States. It is a Christian ministry that is based in the United States.
+
+The Good News International Ministries is a Christian ministry that is based in the United States. It is a Christian ministry that is based in the United States.
+--------------------------------------------------------------------------------
+[79] Label: 1 | Combined Score: -0.0118 | BLEU: 0.0258 | ROUGE-L: 0.1000 | BARTScore-F1: -4.5995
+Prompt     : The Trojan Horse scandal, also known as "Operation Trojan Horse" or the Trojan Horse affair, involves claims
+Reference  : of an alleged conspiracy to introduce an "Islamist" or "Salafist" ethos into several schools in Birmingham, England The name, based on the Greek legend, comes from an anonymous letter sent
+Generated  :  that the NSA was spying on the communications of the European Union and the United States.
+
+The scandal was first revealed in June 2013 by the German newspaper Der Spiegel.
+--------------------------------------------------------------------------------
+[80] Label: 1 | Combined Score: -0.0000 | BLEU: 0.0000 | ROUGE-L: 0.0000 | BARTScore-F1: -7.4162
+Prompt     : The Battle of Shuja'iyya occurred between the Israel Defense Forces and the Izz ad-Din al-Qassam Brigades on
+Reference  : 20 July 2014 during 2014 Israel–Gaza
+Generated  :  the night of June 6, 1967.
+--------------------------------------------------------------------------------
+[81] Label: 0 | Combined Score: -0.0087 | BLEU: 0.0235 | ROUGE-L: 0.0909 | BARTScore-F1: -4.0652
+Prompt     : On 24 February 2022, Russia invaded and occupied parts of Ukraine in
+Reference  : a major escalation of the Russo-Ukrainian War, which had begun
+Generated  :  a military operation that has killed more than 6,000 people.
+--------------------------------------------------------------------------------
