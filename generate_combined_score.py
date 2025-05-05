@@ -2,23 +2,21 @@ import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer
 from nltk.translate.bleu_score import sentence_bleu, SmoothingFunction
 from datasets import load_dataset
-import nltk
-nltk.download('punkt')
+# import nltk
+# nltk.download('punkt')
 from rouge_score import rouge_scorer
 scorer = rouge_scorer.RougeScorer(['rouge1', 'rouge2', 'rougeL'], use_stemmer=True)
 from bert_score import score
 from sklearn.metrics import accuracy_score
 import numpy as np
-from bart import BARTScorer
 
 # Setup
 DEVICE = "cuda"
-# model_path = "oe2015/gpt2-large-wikimia"
-model_path = "oe2015/gpt2-wikimia-1epoch"
+model_path = "oe2015/gpt2-large-wikimia"
+# model_path = "oe2015/gpt2-wikimia-1epoch"
 tokenizer = AutoTokenizer.from_pretrained(model_path)
 model = AutoModelForCausalLM.from_pretrained(model_path, torch_dtype=torch.float16).to(DEVICE)
 model.eval()
-bart_scorer = BARTScorer(device='cuda', checkpoint='facebook/bart-large-cnn')
 
 # Load WikiMIA dataset
 LENGTH = 256
