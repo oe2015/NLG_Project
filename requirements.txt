@@ -35,7 +35,7 @@ nltk==3.9.1
 numpy==2.0.2
 packaging==25.0
 pandas==2.2.3
-pillow==11.2.1
+pillow==11.3.0
 pipx==1.7.1
 propcache==0.3.1
 psutil==7.0.0
