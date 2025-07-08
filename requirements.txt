@@ -58,7 +58,7 @@ tokenizers==0.21.1
 tomli==2.2.1
 torch==2.7.0
 tqdm==4.67.1
-transformers==4.51.3
+transformers==4.52.1
 typing_extensions==4.13.2
 tzdata==2025.2
 urllib3==2.4.0
